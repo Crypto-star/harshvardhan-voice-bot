@@ -75,7 +75,7 @@ Crypto-Star Harshvardhan Voice Bot is a web-based conversational AI that allows 
    ```bash
    pnpm install
    # or
-   npm install
+   npm install --legacy-peer-deps
    ```
 3. **Set Environment Variables:**
    ```
